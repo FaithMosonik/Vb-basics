@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caleb\\Desktop\\Codes\\Visual Studio projects\\Introduction to VB document\\Introduction to VB document.vbproj": {}
+    "C:\\Users\\Caleb\\source\\repos\\FaithMosonik\\Vb-basics\\Introduction to VB document\\Introduction to VB document.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Caleb\\Desktop\\Codes\\Visual Studio projects\\Introduction to VB document\\Introduction to VB document.vbproj": {
+    "C:\\Users\\Caleb\\source\\repos\\FaithMosonik\\Vb-basics\\Introduction to VB document\\Introduction to VB document.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caleb\\Desktop\\Codes\\Visual Studio projects\\Introduction to VB document\\Introduction to VB document.vbproj",
+        "projectUniqueName": "C:\\Users\\Caleb\\source\\repos\\FaithMosonik\\Vb-basics\\Introduction to VB document\\Introduction to VB document.vbproj",
         "projectName": "Introduction to VB document",
-        "projectPath": "C:\\Users\\Caleb\\Desktop\\Codes\\Visual Studio projects\\Introduction to VB document\\Introduction to VB document.vbproj",
+        "projectPath": "C:\\Users\\Caleb\\source\\repos\\FaithMosonik\\Vb-basics\\Introduction to VB document\\Introduction to VB document.vbproj",
         "packagesPath": "C:\\Users\\Caleb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caleb\\Desktop\\Codes\\Visual Studio projects\\Introduction to VB document\\obj\\",
+        "outputPath": "C:\\Users\\Caleb\\Source\\Repos\\FaithMosonik\\Vb-basics\\Introduction to VB document\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caleb\\AppData\\Roaming\\NuGet\\NuGet.Config",

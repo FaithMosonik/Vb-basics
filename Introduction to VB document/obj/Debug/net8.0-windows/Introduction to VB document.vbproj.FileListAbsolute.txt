@@ -1,0 +1,18 @@
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\bin\Debug\net8.0-windows\Introduction to VB document.exe
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\bin\Debug\net8.0-windows\Introduction to VB document.deps.json
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\bin\Debug\net8.0-windows\Introduction to VB document.runtimeconfig.json
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\bin\Debug\net8.0-windows\Introduction to VB document.dll
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\bin\Debug\net8.0-windows\Introduction to VB document.pdb
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\Introduction_to_VB_document.ObjectDemonstrations.resources
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\Introduction_to_VB_document.Form1.resources
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\Introduction to VB document.vbproj.GenerateResource.cache
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\Introduction to VB document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\Introduction to VB document.AssemblyInfoInputs.cache
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\Introduction to VB document.AssemblyInfo.vb
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\Introduction to VB document.vbproj.CoreCompileInputs.cache
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\Introduction to VB document.sourcelink.json
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\Introduction to VB document.dll
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\refint\Introduction to VB document.dll
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\Introduction to VB document.pdb
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\Introduction to VB document.genruntimeconfig.cache
+C:\Users\Caleb\source\repos\FaithMosonik\Vb-basics\Introduction to VB document\obj\Debug\net8.0-windows\ref\Introduction to VB document.dll
